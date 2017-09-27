@@ -1,0 +1,5 @@
+exec_always --no-startup-id feh --bg-scale /home/marko/Downloads/rutku.jpg
+exec --no-startup-id compton
+exec --no-startup-id nm-applet
+
+
